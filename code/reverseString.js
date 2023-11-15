@@ -7,7 +7,3 @@ function reverseString(string) {
 }
 
 module.exports = reverseString;
-
-/*
-npm test tests/reverseString.test.js 
-*/
